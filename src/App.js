@@ -17,9 +17,7 @@ const App = () => {
   return (
     <div className="App">
       <header>
-        <h1>
-          <span role="img">⚛️🔥💬</span>
-        </h1>
+        <h3>ChatRoom</h3>
         <SignOut />
       </header>
 

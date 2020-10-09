@@ -1,5 +1,5 @@
 import { useCollectionData } from "react-firebase-hooks/firestore";
-import React, { useRef, useState } from "react";
+import React, { Fragment, useRef, useState } from "react";
 import ChatMessage from "./ChatMessage";
 import firebase from "firebase/app";
 import "firebase/firestore";
@@ -35,7 +35,7 @@ const ChatRoom = () => {
   };
 
   return (
-    <div>
+    <Fragment>
       <main>
         {messages &&
           messages.map((msg) => <ChatMessage key={msg.id} message={msg} />)}
@@ -46,15 +46,16 @@ const ChatRoom = () => {
       <form onSubmit={sendMessage}>
         <input
           value={formValue}
+          required
           onChange={(e) => setFormValue(e.target.value)}
-          placeholder="say something nice"
+          placeholder="Type a message"
         />
 
         <button type="submit" disabled={!formValue}>
-          🕊️
+          <i className="fa fa-paper-plane" aria-hidden="true"></i>
         </button>
       </form>
-    </div>
+    </Fragment>
   );
 };
 
