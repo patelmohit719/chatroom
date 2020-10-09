@@ -41,5 +41,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 ```
   
   ### Screenshots
-  ![alt text](https://drive.google.com/uc?id=12zLoNthCQ_Zb5W5D13tj88rLuKxW0Gyr)
-  ![alt text](https://drive.google.com/uc?id=1rH1DIbc7bCYvzlwyh4BatYTKSbDlrh37)
+![alt text](https://drive.google.com/uc?id=1rH1DIbc7bCYvzlwyh4BatYTKSbDlrh37)
+  
+![alt text](https://drive.google.com/uc?id=12zLoNthCQ_Zb5W5D13tj88rLuKxW0Gyr)
+  
