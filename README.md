@@ -1,8 +1,8 @@
 # FIREBASE-CHAT-APP
 ## Technology Used
-*Firebase : Firebase for authentication , real time database and deployment.
-*React.js : Javascript library for frontend.
-*HTML & CSS : for styling react components.
+`Firebase` : Firebase for authentication , real time database and deployment.
+`React.js` : Javascript library for frontend.
+`HTML & CSS` : for styling react components.
 
 
 ## Available Scripts
@@ -41,5 +41,5 @@ It correctly bundles React in production mode and optimizes the build for the be
 ```
   
   ### Screenshots
-  ![alt text](https://drive.google.com/file/d/1rH1DIbc7bCYvzlwyh4BatYTKSbDlrh37/view?usp=sharing)
-  ![alt text](https://drive.google.com/file/d/12zLoNthCQ_Zb5W5D13tj88rLuKxW0Gyr/view?usp=sharing)
+  ![alt text](https://drive.google.com/uc?id=12zLoNthCQ_Zb5W5D13tj88rLuKxW0Gyr)
+  ![alt text](https://drive.google.com/uc?id=1rH1DIbc7bCYvzlwyh4BatYTKSbDlrh37)
