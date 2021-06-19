@@ -1,4 +1,4 @@
-# FIREBASE-CHAT-APP
+# CHATROOM
 ## Technology Used
 `Firebase` : Firebase for authentication , real time database and deployment.
 `React.js` : Javascript library for frontend.
