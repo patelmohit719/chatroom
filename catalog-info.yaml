@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: chatroom
+  annotations:
+    github.com/project-slug: patelmohit719/chatroom
+spec:
+  type: other
+  lifecycle: unknown
